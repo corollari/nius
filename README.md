@@ -6,7 +6,7 @@
 
 ## Telecomunicacions
 
-|   NIU   | Name                      |
+|   NIU   | Nom                       |
 |---------|---------------------------|
 | 1458626 | Albert Acebrón Espuñes  |
 | 1461433 | Sergio Acosta Piñero  |
