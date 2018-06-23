@@ -15,8 +15,8 @@
 | 1458688 | Jofre Allande Gonzalez |
 | 1459521 | Mireia Alonso Cabello |
 | 1467355 | Arnau Alvarez Aranda |
-| 1456645 | 1 Álvarez Navarro Lucas |
-| 1467455 | 1 Amela Fuentes Jordi |
+| 1456645 | Álvarez Navarro Lucas |
+| 1467455 | Amela Fuentes Jordi |
 | 1466413 | Biangman Anu Mangue Gertrudis |
 | 1458662 | Luis Aranda Fernández |
 | 1467234 | Christian Arias Romero Brian |
