@@ -1,4 +1,4 @@
-# nius
+# Telecomunicacions
 
 |   NIU   | Name                      |
 |---------|---------------------------|
