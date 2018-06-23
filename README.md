@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="#Telecomunicacions">Telecos</a> •
-  <a href="#Mates">Mates</a>
+  <a href="#telecomunicacions">Telecos</a> •
+  <a href="#mates">Mates</a>
 </p>
 
 ## Telecomunicacions
