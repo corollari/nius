@@ -1,5 +1,3 @@
-# Telecomunicacions
-
 |   NIU   | Name                      |
 |---------|---------------------------|
 | 1458626 | Albert Acebrón Espuñes  |
