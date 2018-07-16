@@ -1,8 +1,8 @@
 
 <p align="center">
   <a href="#telecomunicacions">Telecos</a> •
-  <a href="#mates">Mates</a>
-  <a href="#informatica">Informàtica</a> •
+  <a href="#mates">Mates</a> •
+  <a href="#informatica">Informàtica</a>
 </p>
 
 ## Telecomunicacions
@@ -246,7 +246,7 @@
 | 1497577 | Gerard Vives Calixto |
 | 1498465 | Mael Boris Zamora Eude |
 
-## Informàtica
+## Informatica
 
 |  NIU	  |         Nom         |
 |---------|---------------------|
